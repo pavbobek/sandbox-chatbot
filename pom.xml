@@ -8,5 +8,17 @@
     <artifactId>sandbox-chatbot</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <artifactId>com.google</artifactId>
+            <groupId>Ab</groupId>
+            <version>0.0.4.3</version>
+            <scope>system</scope>
+            <systemPath>${basedir}/lib/Ab.jar</systemPath>
+        </dependency>
+
+    </dependencies>
+
+
 
 </project>
